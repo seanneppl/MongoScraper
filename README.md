@@ -1,7 +1,4 @@
-# ideas
+# Mongo Scraper
 
-scrape a news site and create a modal for each article randomly placed on the page
-models overlap and the most recent modal is on top.
-
-Like a stack of papers.
+Mongo Scraper is an article scraping application using mongoDb and Axios.
 
