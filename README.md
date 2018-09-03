@@ -5,7 +5,7 @@
 Mongo Scraper pulls from [Wired Magazine's](https://www.wired.com/) most recent articles page
 and pulls out the link, image, header, and description. On page load the user is greeted to 
 a blank page with two horizontal side buttons, "Scrape Articles" and "Saved Articles".
-If the user presses "Scraped Articles" the application will scraped Wired and populate the page
+If the user presses "Scraped Articles" the application will scrape Wired and populate the page
 with floating cards for each article found. The cards can be moved around freely within the webpage's
 body. Each article also has a save button, that when clicked pushes the article's information into a 
 MongoDb database.
