@@ -18,3 +18,4 @@ header, two input boxes, and a save button. When the user clicks the save button
 collection and is referenced to the article it was saved on. When the user clicks update again the article header
 and its referenced note text populate the card.
 
+![ScreenShot](https://user-images.githubusercontent.com/38054153/45454668-4ef25500-b6aa-11e8-8592-0f50f34fa1f8.png)
